@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CubeSolvingAssignment.Graphs.GraphSettings">
+    <Position X="6.5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphs\Graph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CubeSolvingAssignment.Graphs.Graph">
+    <Position X="0.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAggAAAAAAAAAQACgAACAAACgAAAAAAgAgIAhgAEAA=</HashCode>
+      <FileName>Graphs\Graph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CubeSolvingAssignment.Graphs.ShortestRoute">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphs\Graph.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CubeSolvingAssignment.Graphs.SolvingMethod">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphs\Graph.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
