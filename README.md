@@ -29,6 +29,8 @@ The rotation is then done by changing colors in the array with each other. Obvio
 
 So basically, when the rotate button is clicked the colors inside the array are changed accordingly.
 
+
+
 ## How is the cube solved?
 
 After you got a picture of how the cube is represented, now we can look at how the cube gets
