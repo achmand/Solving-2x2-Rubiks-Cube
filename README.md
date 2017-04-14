@@ -1,1 +1,1 @@
-# Solving-a-2x2-rubik-s-cube
+# Solving a 2x2 Rubik's Cube using c#
